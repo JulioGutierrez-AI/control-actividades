@@ -1,3 +1,5 @@
+## Autor
+Gutierrez Garcia Julio Augusto
 # Control de Actividades
 Proyecto desarrollado como parte del primer examen parcial.
 ## Objetivo
@@ -7,5 +9,5 @@ Preparar la estructura inicial de un proyecto utilizando Python, Git y GitHub.
 - Python
 - Git
 - GitHub
-## Autor
-Gutierrez Garcia Julio Augusto
+## Estado del proyecto
+Proyecto en etapa inicial.
